@@ -3,17 +3,16 @@
 A collection of 5 automation scenarios implemented in Google Colab 
 running on an Ubuntu-based environment, built for the Operating Systems course.
 
----
-
 ## 📂 Repository Structure
+
+```
 ├── Chatbot.ipynb              # Scenario 1 - Process Automation Chatbot with OS Commands
 ├── CronJobScheduler.ipynb     # Scenario 2 - Cron Job Scheduler Simulator
 ├── FileOrganization.ipynb     # Scenario 3 - Intelligent File Organization & Backup
 ├── PackageManager.ipynb       # Scenario 4 - Automated Package & Dependency Manager
 ├── SmartHome.ipynb            # Scenario 5 - Smart Home Sensor Automation System
 └── README.md
-
----
+```
 
 ## 🚀 Scenarios
 
